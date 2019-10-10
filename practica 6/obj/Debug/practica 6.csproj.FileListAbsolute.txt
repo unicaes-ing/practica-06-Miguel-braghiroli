@@ -1,0 +1,14 @@
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\practica 6\bin\Debug\practica 6.exe.config
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\practica 6\bin\Debug\practica 6.exe
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\practica 6\bin\Debug\practica 6.pdb
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\practica 6\obj\Debug\practica 6.csprojResolveAssemblyReference.cache
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\practica 6\obj\Debug\practica 6.csproj.CoreCompileInputs.cache
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\practica 6\obj\Debug\practica 6.exe
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\practica 6\obj\Debug\practica 6.pdb
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\bin\Debug\practica 6.exe.config
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\bin\Debug\practica 6.exe
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\bin\Debug\practica 6.pdb
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\obj\Debug\practica 6.csprojResolveAssemblyReference.cache
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\obj\Debug\practica 6.csproj.CoreCompileInputs.cache
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\obj\Debug\practica 6.exe
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 6\practica 6\obj\Debug\practica 6.pdb
